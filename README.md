@@ -1,8 +1,7 @@
 # [Accepted] Apple WWDC22 - Swift Student Challenge Submission 
 
 <!-- PROJECT TITLE-->
-<br />
-Connect to my Linkedin: [Click here](https://www.linkedin.com/in/rido-hendrawan-9752371a4/)
+Connect with me on linkedin: [Click here](https://www.linkedin.com/in/rido-hendrawan-9752371a4/)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
