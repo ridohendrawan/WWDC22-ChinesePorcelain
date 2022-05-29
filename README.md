@@ -1,13 +1,8 @@
-# WWDC22-Chinese-Porcelain
-
-<div id="top"></div>
-[![LinkedIn][linkedin-shield]][linkedin-url]
+# [Accepted] Apple WWDC22 - Swift Student Challenge Submission 
 
 <!-- PROJECT TITLE-->
 <br />
-<div align="center">
-  <h2 align="center">[Accepted] Apple WWDC22 - Swift Student Challenge Submission </h2>
-</div>
+Connect to my Linkedin: [Click here](https://www.linkedin.com/in/rido-hendrawan-9752371a4/)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
